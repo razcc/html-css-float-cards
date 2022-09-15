@@ -26,8 +26,32 @@ header{
 main{
     width: 80%;
     margin: auto;
+    background-color: greenyellow;
 }
 
-.col div{
-    background-color: blue;
+/* colonne */
+.col{
+    float: left;
+    width: calc(100% / 3);
+    color: white;
+    padding: 10px 20px;
+    
+}
+.card{
+    background-color: rgb(14, 125, 252);
+    text-align: center;
+}
+.card img{
+    float: left;
+    height: 100px;
+}
+
+/* Informarzioni personali team */
+h4,
+.mail,
+.ruolo{
+    margin: 10px;
+}
+.mail{
+    color: blue;
 }
