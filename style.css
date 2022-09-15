@@ -23,3 +23,11 @@ header{
 }
 
 /* Css Main */
+main{
+    width: 80%;
+    margin: auto;
+}
+
+.col div{
+    background-color: blue;
+}
