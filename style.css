@@ -38,8 +38,7 @@ main{
     
 }
 .card{
-    background-color: rgb(14, 125, 252);
-    text-align: center;
+    background-color: rgb(1, 21, 45);
 }
 .card img{
     float: left;
@@ -50,8 +49,8 @@ main{
 h4,
 .mail,
 .ruolo{
-    margin: 10px;
+    margin: 5px;
 }
 .mail{
-    color: blue;
+    color: rgb(9, 177, 255);
 }
